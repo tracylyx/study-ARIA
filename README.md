@@ -17,3 +17,4 @@
 # 参考文档
 [roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
 [eslint jsx a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)
+[react native相关的accessibility](https://reactnative.dev/docs/accessibility#aria-label)
